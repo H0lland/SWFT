@@ -1,0 +1,4 @@
+toolW: alpha, zeta: iota
+toolX: beta, theta, kappa: delta, eta
+toolY: beta, gamma, delta, zeta: epsilon, zeta
+toolZ: epsilon, theta, kappa: alpha, gamma
